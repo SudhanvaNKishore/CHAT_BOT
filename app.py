@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Set your API key directly (for testing purposes)
-api_key_google = "AIzaSyC0wTfK9RpZfZBaRbTGgupKmedfFpdTwPY"  # Your actual API key here
+api_key_google = ""  # Your actual API key here
 
 if api_key_google is None:
     raise ValueError("Google API key is not set. Please set your API key.")
